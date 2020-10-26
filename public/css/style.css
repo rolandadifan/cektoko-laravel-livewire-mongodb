@@ -1,0 +1,41 @@
+/* navbar */
+.skin-blue .main-header .navbar {
+    background-color: #acaaa8 !important;
+}
+
+.logo {
+    background-color: #626160 !important;
+}
+.user-header {
+    background-color: #acaaa8 !important;
+}
+
+.main-header 
+
+/* sidebar */
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #c4c3c0 !important;
+}
+
+.user-panel p {
+    color: black !important;
+}
+
+.main-sidebar ul li a {
+    color: black !important;
+}
+
+.tittle-header {
+    background-color: #dddbd8 !important;
+}
+
+.main-sidebar ul li:hover a {
+    color: white !important;
+}
+
+/* cretae-product */
+
+/* #modal-product {
+    margin-bottom: 20px;
+    margin-top: 30px;
+} */
